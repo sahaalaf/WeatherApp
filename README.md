@@ -1,0 +1,1 @@
+Project Name: Weather App<br>Description: An Android weather app displaying current conditions, like temperature, humidity, and wind speed. Users can search for cities easily.<br>Clean UI. Tech Stack: Android SDK, Kotlin/Java, XML.<br>Contributions Welcome!
